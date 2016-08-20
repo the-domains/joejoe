@@ -1,0 +1,14 @@
+name: joejoe
+layout_spectrum: 0.8887373709486487
+typography_spectrum: 0.6567213724309817
+color:
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+  brandStrength: 0.6771904304390688
+  lightness: 0.6015337260557472
+  saturation: 0.00030429243745000445
+  rhythmicContrast: 0.8054277575701784
